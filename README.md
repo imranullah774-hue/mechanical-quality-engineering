@@ -23,5 +23,4 @@ My experience includes:
 - Control Plans
 - Quality Documentation
 
-## Repository Contents
-This repository contains examples, templates, and resources related to mechanical quality engineering.
+
